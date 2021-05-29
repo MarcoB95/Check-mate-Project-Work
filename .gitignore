@@ -1,0 +1,5 @@
+*.csv
+.runs/
+.data-unversioned/
+fire_dataset/
+Full_code_network/
